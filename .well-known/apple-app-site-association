@@ -1,11 +1,5 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "ABCDE12345.com.your.bundleid",
-        "paths": [ "/reset-password/*" ]
-      }
-    ]
+  "webcredentials": {
+    "apps": ["78NGY92Y62.com.oleksii.nefedchenko.words"]
   }
 }
